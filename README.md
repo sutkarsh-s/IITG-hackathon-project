@@ -1,1 +1,1 @@
-# IITG-hackathon-project Capstone Project
+# IITG-hackathon Capstone Project
